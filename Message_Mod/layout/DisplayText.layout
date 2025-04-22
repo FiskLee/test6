@@ -1,0 +1,26 @@
+FrameWidgetClass {
+ Name "rootFrame"
+ {
+  RichTextWidgetClass "{652CB19395917B64}" {
+   Name "RichText0"
+   Slot FrameWidgetSlot "{652CB19395917B53}" {
+    PositionX 4.194
+    OffsetLeft 4.194
+    PositionY 4.784
+    OffsetTop 4.784
+    SizeX 1907.4
+    OffsetRight -1911.59
+    SizeY 20.412
+    OffsetBottom -25.196
+   }
+   Text "Seeding Rules: ON"
+   "Font Size" 12
+   "Min Font Size" 12
+   FontProperties FontProperties "{652CB19648B5FE9B}" {
+    Bold 1
+    ShadowSize 8
+    ShadowOffset 5 5
+   }
+  }
+ }
+}

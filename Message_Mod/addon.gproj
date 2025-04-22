@@ -1,0 +1,8 @@
+GameProject {
+ ID "MessageMod"
+ GUID "652CF3419A64550A"
+ TITLE "Message_Mod"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}
